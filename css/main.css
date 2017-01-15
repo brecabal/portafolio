@@ -2,10 +2,6 @@ body {
   font-family: 'Architects Daughter', sans-serif;
 }
 
-.none{
-  display: none;
-}
-
 /*header*/
 .portada{
   background-image: url("../img/computer-1209641_1920.jpg");
